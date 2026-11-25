@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 640px)" srcset="assets/portfolio/hero-mobile.svg" />
-  <img src="assets/portfolio/hero.svg" width="1200" alt="Free Data Recovery Guides — Nisar Muhammad" />
+  <source media="(max-width: 640px)" srcset="assets/phase2/hero-mobile.svg" />
+  <img src="assets/phase2/hero.svg" width="1200" alt="Free Data Recovery Guides — Nisar Muhammad" />
 </picture>
 
 # Free Data Recovery Guides
@@ -13,7 +13,7 @@ Two free educational guides by Nisar Muhammad for inspecting storage and recover
 1. [SystemRescue Linux beginner guide (PDF)](docs/Free_Data_Recovery_Beginners_Guide.pdf) walks through booting a rescue USB, identifying disks and partitions, and safely inspecting files.
 2. [Recover files from a deleted partition (PDF)](docs/Free_Data_Recovery_Step_by_Step_Guide.pdf) shows how to find a lost partition with SystemRescue and TestDisk, preview its files, and copy them to a separate physical drive.
 
-## Official downloads
+## <img src="assets/phase2/section.svg" width="32" alt="" /> Official downloads
 
 - [SystemRescue](https://www.system-rescue.org/Download/)
 - [Rufus](https://rufus.ie/)
@@ -21,7 +21,7 @@ Two free educational guides by Nisar Muhammad for inspecting storage and recover
 
 These guides were independently prepared by Nisar Muhammad. The linked tools are developed and distributed by their respective projects. This repository contains documentation only.
 
-## Before you start
+## <img src="assets/phase2/section.svg" width="32" alt="" /> Before you start
 
 Stop using the affected drive. Verify the source, boot USB, and destination by model and size, and check serial numbers when disks look alike. Creating the boot USB erases the selected USB. Keep logs and recovered files on a separate physical drive.
 
