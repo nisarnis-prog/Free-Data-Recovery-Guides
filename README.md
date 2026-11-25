@@ -1,3 +1,8 @@
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/portfolio/hero-mobile.svg" />
+  <img src="assets/portfolio/hero.svg" width="1200" alt="Free Data Recovery Guides — Nisar Muhammad" />
+</picture>
+
 # Free Data Recovery Guides
 
 Two free educational guides by Nisar Muhammad for inspecting storage and recovering files after an accidental partition deletion.
